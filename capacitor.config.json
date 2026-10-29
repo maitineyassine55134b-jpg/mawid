@@ -1,0 +1,7 @@
+{
+  "appId": "com.mawid.app",
+  "appName": "Mawid",
+  "webDir": "www",
+  "backgroundColor": "#0B2A5B",
+  "server": { "androidScheme": "https" }
+}
